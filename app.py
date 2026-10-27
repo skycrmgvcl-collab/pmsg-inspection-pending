@@ -1412,4 +1412,3 @@ with st.expander(
     st.write(
         list(df.columns)
     )
-```
