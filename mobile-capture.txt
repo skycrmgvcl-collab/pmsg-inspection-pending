@@ -1,0 +1,3 @@
+MGVCL PM Surya Ghar Mobile Capture V2
+
+This file is the mobile capture program. Use the GitHub Pages URL after enabling Pages for this repository.
